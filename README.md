@@ -15,7 +15,6 @@ This project addresses these challenges by:
 ## Dataset
 
 - **Dataset**: DAPHNet Freezing of Gait Dataset  
-- **Sensors**: Tri-axial accelerometers (ankle, thigh, trunk)
 - **Annotations**:
   - `0`: Non-experimental activity (excluded)
   - `1`: Non-FoG activity
